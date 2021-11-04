@@ -2,4 +2,4 @@
 
 compile:
 
-gcc -lncurses snake.c -o snake
+gcc snake.c -o snake -lncurses
